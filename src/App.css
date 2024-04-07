@@ -1,0 +1,22 @@
+select{
+  color: #fff;
+  padding: 5px ;
+  border-radius: 4px;
+  border: none;
+}
+
+h5{
+  margin: 0px 8px;
+}
+ .card{
+  background: #e9e5e5;
+ }
+
+ .button{
+  min-width: 100px;
+ }
+
+ .filter{
+  background: orange;
+  padding: 5px;
+ }
